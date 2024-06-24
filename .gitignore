@@ -1,0 +1,5 @@
+.env
+.byebug_history
+etc
+.rspec_status
+tmp
