@@ -32,7 +32,7 @@ exit
 clone this repository and build the image from the dockerfile:
 
 ```bash
-git clone https://github.com/leonovk/wg-rest-api.git
+git clone https://github.com/dostmuhammaddoshi/wg-rest-api.git
 ```
 
 ```bash
