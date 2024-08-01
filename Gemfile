@@ -28,6 +28,6 @@ group :development do
 end
 
 group :production do
-  gem 'sentry-ruby', '~> 5.17', '>= 5.17.3'
+  gem 'sentry-ruby', '~> 5.18'
   gem 'stackprof', '~> 0.2.26'
 end
